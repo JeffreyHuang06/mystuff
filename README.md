@@ -4,6 +4,7 @@
 
 * [[My own programming language]](https://github.com/JeffreyHuang06/pyNote)
 * [[My own social media website (in the works)]](http://frespo.epizy.com/)
+* * [[GitHub]](https://github.com/JeffreyHuang06/Frespo2)
 * [[Application Deadline Chrome Extension]](https://github.com/JeffreyHuang06/deadlinemanager-extension)
 * [[Genetic Algorithm Project]](https://github.com/JeffreyHuang06/genetic-ttt)
 
